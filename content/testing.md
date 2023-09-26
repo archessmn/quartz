@@ -74,3 +74,8 @@ file:"Lecture 1"
 ![](https://www.youtube.com/watch?v=NnTvZWp5Q7o)
 ![](https://twitter.com/obsdmd/status/1580548874246443010)
 
+```js
+import * as bcrypt from "bcrypt"
+
+console.log("Hello World!")
+```
