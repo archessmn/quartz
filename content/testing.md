@@ -9,6 +9,7 @@ created: 2023-09-25T18:34
 
 ---
 
+[[index]]
 
 $$
 \begin{align*}
@@ -74,7 +75,7 @@ file:"Lecture 1"
 ![](https://www.youtube.com/watch?v=NnTvZWp5Q7o)
 ![](https://twitter.com/obsdmd/status/1580548874246443010)
 
-```js
+```js showLineNumbers{5}
 import * as bcrypt from "bcrypt"
 
 console.log("Hello World!")
