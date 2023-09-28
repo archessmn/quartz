@@ -8,7 +8,7 @@ Testing: true
 created: 2023-09-25T18:34
 ---
 
-[[index]]
+[[Quartz/content/index|index]]
 
 $$
 \begin{align*}

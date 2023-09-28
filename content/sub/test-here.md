@@ -1,1 +1,3 @@
-## Hello
+---
+title: Page in a sub folder
+---
